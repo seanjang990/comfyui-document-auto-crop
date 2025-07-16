@@ -1,0 +1,4 @@
+# comfyui-document-auto-crop/requirements.txt
+mediapipe
+opencv-python
+Pillow
